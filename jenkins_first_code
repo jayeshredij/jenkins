@@ -1,0 +1,3 @@
+echo "hello"
+echo "hellow">/tmp/first_job.txt
+bash /tmp/basic.sh
